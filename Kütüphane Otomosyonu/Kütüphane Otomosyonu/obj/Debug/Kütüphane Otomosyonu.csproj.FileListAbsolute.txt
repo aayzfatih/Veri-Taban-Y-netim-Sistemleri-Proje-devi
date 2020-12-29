@@ -1,0 +1,19 @@
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\bin\Debug\Kütüphane Otomosyonu.exe.config
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\bin\Debug\Kütüphane Otomosyonu.exe
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\bin\Debug\Kütüphane Otomosyonu.pdb
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane Otomosyonu.csprojAssemblyReference.cache
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.Properties.Resources.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.UyeEklefrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane Otomosyonu.csproj.GenerateResource.cache
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane Otomosyonu.csproj.CoreCompileInputs.cache
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane Otomosyonu.exe
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane Otomosyonu.pdb
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.UyeEkleForm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.UyeListelemefrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.kitapeklefrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.KitapListelemefrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.EmanetKitapVerfrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.EmanetKitapListelemefrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.EmanetKitapİadefrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.Sıralamafrm.resources
+C:\Users\Fatih Ayaz\source\repos\Kütüphane Otomosyonu\Kütüphane Otomosyonu\obj\Debug\Kütüphane_Otomosyonu.Grafikfrm.resources
